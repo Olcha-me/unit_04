@@ -66,6 +66,10 @@ h1 {
     background: #f1f1f1;
     padding: 10px;
 }
+th, td {
+    border: 1px #c0c0c0;
+    padding: 10px;
+}
 
 /* table 01============== */
 
