@@ -87,10 +87,27 @@ th, td {
 }
 
 /* table 02 ================== */
+.users .header-table {
+    background-color: orangered;
+    color: white;
+    font-weight: normal;
+}
+
+.users th, .users td {
+    border: 1px #c0c0c0;
+    padding: 10px;
+    vertical-align: middle;
+}
 
 
 /* table 03 ================== */
-
+.line-table tr {
+    border-bottom: 1px solid orange;
+}
+.line-table th, .line-table td {
+    padding: 10px;
+    vertical-align: middle;
+}
 
  /* table 04 ====================== */
  
